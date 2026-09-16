@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Traction Inverter Topology & Modulation Workbench",
+  "description": "Advanced educational and analytical workbench for EV traction inverters, demonstrating circuit topologies, PWM modulation, dynamic conduction schematics, and multi-channel real-time waveforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
